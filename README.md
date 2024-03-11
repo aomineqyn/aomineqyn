@@ -30,7 +30,7 @@ Welcome any feedback and learning opportunities, feel free to reach out via **cm
 
 ---
 
-## 🚢 [Hiraeth Cruises Databases](https://drive.google.com/file/d/1Plx3eDWTPHhShrgb0vz1LRCSBysUI6EE/view?usp=sharing)
+## 🚢 [Hiraeth Cruises Databases](https://github.com/aomineqyn/BComm-BA/blob/6b750ad4763cefd9d3b7229cbf8168ac74f01a74/SQL.sql)
 ### University assignment (COMP1350: Introduction to Database Design and Management)
 *Constructing the databases and writing queries for searches as requirements.*  
 
