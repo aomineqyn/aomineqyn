@@ -7,6 +7,18 @@
 Here are some of my projects. </p>
 Welcome any feedback and learning opportunities, feel free to reach out via **cmlequynh@gmail.com**
 
+---
+
+## 🏕️ [The Impact of COVID-19 on Digital Learning in the United States](https://drive.google.com/file/d/1wbPa_Ajaq8DjMxnVObjbBtW5tMNVg3pV/view?usp=drive_link)
+### University assignment (BUSA8000: Techniques in Businses Analytics)
+*Conducting data cleaning and wrangling process on the given datasets and generating insightful graphs to illustrate how the pandemic influenced the American education system, especially its impact on students in marginalized communities.  
+Three key findings:  
+(1) There was a correlation between the percentage of Black/Hispanic students and the proportion of students receiving free/low lunch prices.  
+(2) Google products were utilized the most throughout the pandemic, particularly Google Docs and Google Classroom due to their user-friendly interfaces.
+(3) Although receiving assistance from the government and educational institutions, students, especially those from marginalized communities, were significantly affected in terms of their knowledge, mentality, and future earnings. Empathetic and constructive conversations are recommended to mitigate the impacts of this challenge.*  
+
+**Time:** Mar 29 - Apr 12 2024  
+**Technical Tool:** RStudio (R Programming Language)  
 
 ---
 
