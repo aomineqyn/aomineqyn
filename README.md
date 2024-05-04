@@ -9,8 +9,7 @@ Welcome any feedback and learning opportunities, feel free to reach out via **le
 
 ---
 
-## ![OlympicRingsGIF](https://github.com/aomineqyn/aomineqyn/assets/103408164/4d347723-b39a-487c-b562-f365f6a436c1)
- [Paris 2024 Olympic Games](https://drive.google.com/file/d/1wbPa_Ajaq8DjMxnVObjbBtW5tMNVg3pV/view?usp=drive_link)
+## 🏅 [Paris 2024 Olympic Games](https://drive.google.com/file/d/1wbPa_Ajaq8DjMxnVObjbBtW5tMNVg3pV/view?usp=drive_link)
 ### University assignment (BUSA8090: Data and Visualization for Business)
 *Conducting data cleaning and wrangling process on the given datasets and generating insightful graphs to illustrate how the pandemic influenced the American education system, especially its impact on students in marginalized communities.*  
   
