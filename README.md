@@ -9,16 +9,12 @@ Welcome any feedback and learning opportunities, feel free to reach out via **le
 
 ---
 
-## 🏅 [Paris 2024 Olympic Games](https://drive.google.com/file/d/1wbPa_Ajaq8DjMxnVObjbBtW5tMNVg3pV/view?usp=drive_link)
+## 🏅 [Paris Olympic Games 2024](https://drive.google.com/file/d/1jPKnnUHTc-D8vOaCNWX4eMHIwf5bbYdJ/view?usp=sharing)
 ### University assignment (BUSA8090: Data and Visualization for Business)
-*Conducting data cleaning and wrangling process on the given datasets and generating insightful graphs to illustrate how the pandemic influenced the American education system, especially its impact on students in marginalized communities.*  
-  
-Three key findings:  
-1. There was a correlation between the percentage of Black/Hispanic students and the proportion of students receiving free/low lunch prices.
-2.  Google products were utilized the most throughout the pandemic, particularly Google Docs and Google Classroom due to their user-friendly interfaces.
-3.  Although receiving assistance from the government and educational institutions, students, especially those from marginalized communities, were significantly affected in terms of their knowledge, mentality, and future earnings. Empathetic and constructive conversations are recommended to mitigate the impacts of this challenge.  
+*Constructing a structured database for the management of the Paris Olympic Games 2024, considering various aspects such as athlete information, event scheduling, volunteer training, etc., and proposing solutions for the event's operational efficiency.
+Some recommendations: (1) Shared room arrangements, (2) Volunteer programs, (3) Partnerships and sponsorships*
 
-**Time:** Mar 29 - Apr 12 2024  
+**Time:** Apr 15 - Apr 29, 2024  
 **Technical Tool:** MySQL Workbench (SQL Programming Language)  
 
 ---
@@ -32,7 +28,7 @@ Three key findings:
 2.  Google products were utilized the most throughout the pandemic, particularly Google Docs and Google Classroom due to their user-friendly interfaces.
 3.  Although receiving assistance from the government and educational institutions, students, especially those from marginalized communities, were significantly affected in terms of their knowledge, mentality, and future earnings. Empathetic and constructive conversations are recommended to mitigate the impacts of this challenge.  
 
-**Time:** Mar 29 - Apr 12 2024  
+**Time:** Mar 29 - Apr 12, 2024  
 **Technical Tool:** RStudio (R Programming Language)  
 
 ---
@@ -41,7 +37,7 @@ Three key findings:
 ### UCC x Oliver Wyman Trans-Tasman 2023 Case Competition
 *Coming up with solutions to support AWTY, a new platform for searching campsites in Australia, to overcome 3 challenges: (1) low brand awareness, (2) limitation in user network, (3) user experience.*   
 <br />
-**Time:** Jul 05 - Jul 24 2023  
+**Time:** Jul 05 - Jul 24, 2023  
 **Technical Tool:** Google Slides  
 **Outcome:** National Heats Round  
 
@@ -51,7 +47,7 @@ Three key findings:
 ### University assignment (BUSA3020: Advanced Analytics Techniques)
 *Utilizing clustering techniques (k-means, hierarchical clustering) to create group of similar customer's characteristics and give recommendations on marketing strategy.*  
 
-**Time:** Apr 28 - May 19 2023  
+**Time:** Apr 28 - May 19, 2023  
 **Technical Tool:** Jupyter Notebook (Python Programming Language)  
 **Outcome:** 60/100  
 
@@ -61,7 +57,7 @@ Three key findings:
 ### University assignment (COMP1350: Introduction to Database Design and Management)
 *Constructing the databases and writing queries for searches as requirements.*  
 
-**Time:** Oct 02 - Oct 23 2022  
+**Time:** Oct 02 - Oct 23, 2022  
 **Technical Tool:** MySQL  
 **Outcome:** 96/100  
 
@@ -71,7 +67,7 @@ Three key findings:
 ### University assignment (BUSA2020: Fundamentals of Business Analytics)
 *Visualizing the demographics of the Australian population born in assigned countries over 2 decades and using story-telling skills to highlight insightful aspects of the dataset.*  
 
-**Time:** Sep 16 - Sep 30 2022  
+**Time:** Sep 16 - Sep 30, 2022  
 **Technical Tool:** Tableau  
 **Outcome:** 97.5/100  
 
@@ -81,7 +77,7 @@ Three key findings:
 ### University assignment (BUSA2020: Fundamentals of Business Analytics)
 *Identifying the pros and cons of the investment in Fairfield real estates, starting with the data cleaning and inflation adjustment, followed by the comparison with the data of historical and surrounding Fairfield property.*  
 
-**Time:** Aug 05 - Aug 19 2022  
+**Time:** Aug 05 - Aug 19, 2022  
 **Technical Tool:** Excel  
 **Outcome:** 100/100  
 
