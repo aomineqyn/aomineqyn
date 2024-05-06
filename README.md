@@ -9,7 +9,7 @@ Welcome any feedback and learning opportunities, feel free to reach out via **le
 
 ---
 
-## 🏅 [Paris Olympic Games 2024](https://drive.google.com/file/d/1jPKnnUHTc-D8vOaCNWX4eMHIwf5bbYdJ/view?usp=sharing)
+## 🏅 [Paris Olympic Games 2024](https://drive.google.com/file/d/1AX2JQipp0U-0BlMK2SjkfPG64-t18KS2/view?usp=sharing)
 ### University assignment (BUSA8090: Data and Visualization for Business)
 *Designing a structured database for the management of the Paris Olympic Games 2024, considering various aspects such as athlete information, event scheduling, volunteer training, etc., and proposing solutions for the event's operational efficiency.  
 Some recommendations: (1) Shared room arrangement, (2) Volunteer program, (3) Partnerships and sponsorships.*
