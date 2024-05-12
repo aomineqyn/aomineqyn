@@ -30,6 +30,7 @@ Three key findings:
 
 **Time:** Mar 29 - Apr 12, 2024  
 **Technical Tool:** RStudio (R Programming Language)  
+**Outcome:** 93/100
 
 ---
 
