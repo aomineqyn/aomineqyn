@@ -15,7 +15,7 @@ Welcome any feedback and learning opportunities, feel free to reach out via **le
 Some recommendations: (1) Shared room arrangement, (2) Volunteer program, (3) Partnerships and sponsorships.*
 
 **Time:** Apr 15 - Apr 29, 2024  
-**Technical Tool:** MySQL Workbench (SQL Programming Language)
+**Technical Tool:** MySQL Workbench (SQL Programming Language)  
 **Outcome:** 83/100
 
 ---
