@@ -21,7 +21,7 @@ Some recommendations: (1) Shared room arrangement, (2) Volunteer program, (3) Pa
 ---
 
 ## 🔢 [The Impact of COVID-19 on Digital Learning in the United States](https://drive.google.com/file/d/1wbPa_Ajaq8DjMxnVObjbBtW5tMNVg3pV/view?usp=drive_link)
-### University assignment (BUSA8000: Techniques in Businses Analytics)
+### University assignment (BUSA8000: Techniques in Business Analytics)
 *Conducting data cleaning and wrangling process on the given datasets and generating insightful graphs to illustrate how the pandemic influenced the American education system, especially its impact on students in marginalized communities.*  
   
 Three key findings:  
