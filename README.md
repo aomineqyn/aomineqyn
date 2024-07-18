@@ -75,7 +75,7 @@ Three key findings:
 
 ---
 
-## 🏡 [Fairfield Property Investment](https://hcmedu-my.sharepoint.com/:x:/g/personal/cmlequynh_hcm_edu_vn/ESG952Jz0wFNuKNmQWfHzMgBBGfIf6OfkGZGD_FqnMkFgg?e=M7BUy3)
+## 🏡 [Fairfield Property Investment](https://1drv.ms/x/s!ArMe2BBR2L3YrTRxQnKrukAQy7vM?e=Dx12y5)
 ### University assignment (BUSA2020: Fundamentals of Business Analytics)
 *Identifying the pros and cons of the investment in Fairfield real estates, starting with the data cleaning and inflation adjustment, followed by the comparison with the data of historical and surrounding Fairfield property.*  
 
