@@ -18,8 +18,7 @@ Top three regression models:
 
 **Time:** Sep 09 - Nov 01, 2024  
 **Technical Tool:** Visual Studio Code (Python Programming Language)  
-**Outcome:** 82/100 (2nd place out of 80+ teams in a Kaggle competition.) 
-[Presentation](https://drive.google.com/file/d/17yos7djMBJ6jkII1SDQBbbBBuKuy9QIZ/view?usp=drive_link) 
+**Outcome:** 82/100 (2nd place out of 80+ teams in a Kaggle competition.)  
 
 ---
 
