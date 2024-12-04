@@ -78,16 +78,6 @@ Three key findings:
 
 ---
 
-## 🛒 [Customer Segmentation (Loyalty Cards)](https://drive.google.com/file/d/1U4xiU2TOh0yGxCkqu-4ak8yjHKI5z_T5/view?usp=sharing) 
-### University assignment (BUSA3020: Advanced Analytics Techniques)
-*Utilizing clustering techniques (k-means, hierarchical clustering) to create group of similar customer's characteristics and give recommendations on marketing strategy.*  
-
-**Time:** Apr 28 - May 19, 2023  
-**Technical Tool:** Jupyter Notebook (Python Programming Language)  
-**Outcome:** 60/100  
-
----
-
 ## 🚢 [Hiraeth Cruises Databases](https://github.com/aomineqyn/BComm-BA/blob/6b750ad4763cefd9d3b7229cbf8168ac74f01a74/SQL.sql)
 ### University assignment (COMP1350: Introduction to Database Design and Management)
 *Constructing the databases and writing queries for searches as requirements.*  
