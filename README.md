@@ -14,7 +14,7 @@ Welcome any feedback and learning opportunities, feel free to reach out via **le
 **Time:** Oct 07 - Oct 18, 2024  
 **Technical Tool:** Visual Studio Code (Python Programming Language)  
 **Outcome:** 71/100  
-**[Python Code](https://github.com/aomineqyn/Ms-BA/blob/main/Customer%20Segmentation%20(Travel%20Agency).ipynb) **
+[Python Code](https://github.com/aomineqyn/Ms-BA/blob/main/Customer%20Segmentation%20(Travel%20Agency).ipynb) 
 
 ---
 
