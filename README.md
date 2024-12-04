@@ -18,12 +18,11 @@ Welcome any feedback and learning opportunities, feel free to reach out via **le
 
 ---
 
-## 🏅 [Ethical assessment on X's actions of refusing to eliminate listed accounts in Brazil](https://drive.google.com/file/d/1YRpszTrOBcY2tkwF5Ihbi8S9hBh-gNfD/view?usp=drive_link)
+## 🏅 [Milton Friedman's Shareholder Ethics and Social Media: Evaluating X's Refusal to Remove Misinformation](https://drive.google.com/file/d/1YRpszTrOBcY2tkwF5Ihbi8S9hBh-gNfD/view?usp=drive_link)
 ### University assignment (BUSA8048: Business and Professional Ethics)
 *A social media company, X, recently refused to comply with an order to remove accounts accused of spreading misinformation, potentially risking a ban in Brazil. This essay critically examines the ethical considerations of X's actions, drawing on Milton Friedman's shareholder ethics. It begins by identifying and explaining two key steps Friedman would recommend for a social media platform: (1) profit maximization and (2) adherence to laws and customs. The essay then applies Friedman's ethical framework to X's situation and critically evaluates the ethical implications of these approaches. Two key objections to Friedman's theory are highlighted: the restrictive influence of legal compliance on free-market operations and the questionable connection between profit maximization and shareholder satisfaction. An alternative perspective by Theodore Levitt argues that maintaining customer retention is the ultimate responsibility of a business.*
 
 **Time:** Sep 09 - Oct 06, 2024  
-**Technical Tool:** Microsoft Word  
 **Outcome:** 83/100 (Overall Feedback: Excellent Paper)
 
 ---
