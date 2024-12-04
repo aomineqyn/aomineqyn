@@ -7,7 +7,7 @@
 Here are some of my projects. </p>
 Welcome any feedback and learning opportunities, feel free to reach out via **lequynh.cao@gmail.com**
 
-## 🛒 [Price Prediction for Used Car](https://github.com/aomineqyn/Ms-BA/blob/32173b49bd9f1bc566d58e274f65353674807131/%5BSUBMISSION%5D%20BUSA8001_OTT.ipynb)  
+## 🛒 [Predicting Used Car Prices](https://github.com/aomineqyn/Ms-BA/blob/32173b49bd9f1bc566d58e274f65353674807131/%5BSUBMISSION%5D%20BUSA8001_OTT.ipynb)  
 ### University assignment (BUSA8001: Applied Predictive Analytics)
 *Predicted the prices of used cars based on their characteristics using regression models.
 Top three regression models:
