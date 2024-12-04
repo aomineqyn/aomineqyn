@@ -8,13 +8,13 @@ Here are some of my projects. </p>
 Welcome any feedback and learning opportunities, feel free to reach out via **lequynh.cao@gmail.com**
 
 ## 🛒 [Customer Segmentation (Travel Agency)](https://drive.google.com/file/d/1rWBKDNjvI7k2WJ9NrDWayJzeWmouXNov/view?usp=drive_link)  
-### [Python Code](https://github.com/aomineqyn/Ms-BA/blob/main/Customer%20Segmentation%20(Travel%20Agency).ipynb)  
 ### University assignment (BUSA8001: Applied Predictive Analytics)
 *Performing Exploratory Data Analysis (EDA) on a dataset of 2,000 interactive customers and utilizing clustering techniques (K-means++ & Agglomerative Clustering) to group the similarity of customers distribution to provide suggestions on marketing strategy.*  
 
 **Time:** Oct 07 - Oct 18, 2024  
 **Technical Tool:** Visual Studio Code (Python Programming Language)  
 **Outcome:** 71/100  
+**[Python Code](https://github.com/aomineqyn/Ms-BA/blob/main/Customer%20Segmentation%20(Travel%20Agency).ipynb) **
 
 ---
 
