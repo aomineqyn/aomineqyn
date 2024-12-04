@@ -9,7 +9,8 @@ Welcome any feedback and learning opportunities, feel free to reach out via **le
 
 ## 🛒 [Predicting Used Car Prices](https://github.com/aomineqyn/Ms-BA/blob/32173b49bd9f1bc566d58e274f65353674807131/%5BSUBMISSION%5D%20BUSA8001_OTT.ipynb)  
 ### University assignment (BUSA8001: Applied Predictive Analytics)
-*Predicted the prices of used cars based on their characteristics using regression models.
+*Predicted the prices of used cars based on their characteristics using regression models.*  
+
 Top three regression models:
 1. Stacking (Top 3): Gradient Boosting, XGBoost Regressor, and LightGBM Regressor
 2. LightGBM Regressor
