@@ -14,7 +14,7 @@ Welcome any feedback and learning opportunities, feel free to reach out via **le
 Top three regression models:
 1. Stacking (Top 3): Gradient Boosting, XGBoost Regressor, and LightGBM Regressor
 2. LightGBM Regressor
-3. XGBoost Regressor*  
+3. XGBoost Regressor  
 
 **Time:** Sep 09 - Nov 01, 2024  
 **Technical Tool:** Visual Studio Code (Python Programming Language)  
