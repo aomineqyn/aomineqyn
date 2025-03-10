@@ -1,5 +1,5 @@
 <h1 align="center">Hey, 🙋🏻‍♀️! </h1> 
-<h3 align="center">It's Minh </h3> </p> <h4 align="center"> A Business Analytics Graduate </h4>
+<h3 align="center">It's Quinn </h3> </p> <h4 align="center"> A Business Analytics Graduate </h4>
 <img align="right" alt="Coding" width="150" src="https://media.tenor.com/_mYZWyrW3AUAAAAj/peach-goma-pc-night-keyboard-smashing.gif">
 
 <br />
